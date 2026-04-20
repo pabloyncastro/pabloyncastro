@@ -18,7 +18,6 @@
 
 ---
 
-
 ###
 
 ## ⚡Tech & Tools
@@ -82,7 +81,6 @@
 # 👾 Contributions 
 
 ###
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pabloyncastro/pabloyncastro/output/pacman-contribution-graph-dark.svg">
